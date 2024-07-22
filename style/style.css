@@ -35,9 +35,6 @@ body {
     transition: background-color 0.3s;
 }
 
-.option:hover {
-    background-color: #d0d0d0;
-}
 
 .letter {
     background-color: #d50968;
